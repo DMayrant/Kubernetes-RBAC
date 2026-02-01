@@ -28,3 +28,5 @@ Service Account
  kubectl create rolebinding pod-reader-binding --role=pod-reader --serviceaccount=default:dev-sa
  ```
 ![image alt](https://github.com/DMayrant/Kubernetes-RBAC/blob/main/Screenshot%202569-02-01%20at%2016.38.19.png?raw=true)
+
+![image alt](https://github.com/DMayrant/Kubernetes-RBAC/blob/main/Screenshot%202569-02-01%20at%2016.38.46.png?raw=true)
